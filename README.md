@@ -7,7 +7,7 @@
     $ pip install selenium
     ```
   - Must have chrome Web Driver
-  Downloding Link : [https://chromedriver.chromium.org/downloads/][PlDb]
+  Downloding Link : [https://chromedriver.chromium.org/downloads/]
   
   
 ### Code Execution
